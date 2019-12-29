@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1571071297 source:c:\users\hp\desktop\can xu li\algorithm\debugwordboggle\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+
